@@ -1,7 +1,4 @@
 # Cloud Security Lab 1: Linux Commands Study
-# Name:dharuru yogesh
-# Reg no:212224230063
-
 ## Introduction to Linux
 
 **Linux** is an open-source operating system, and its kernel is the heart of the OS, facilitating communication between hardware and software. One of the key advantages of Linux is its customizability; developers can modify the Linux kernel to create their own tailored operating systems.
